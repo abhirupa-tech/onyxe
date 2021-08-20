@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a Software Developer at Microsoft, India.
+
+<ul>
+  <li>🔭 I’m currently working on adding voice capabilities to Microsoft Office products.</li>
+  <li>🌱 I’m currently learning React and TypeScript, and trying to integrate Machine Learning into my personal projects.</li>
+  <li>💬 Ask me about anything JavaScript</li>
+  <li>📫 How to reach me: Mail me @ onyxe.businessqueries@gmail.com . I also post regular content on Instagram @dev.onyx</li>
+  <li>⚡ Fun fact: I have started training for my first ever 5K race, when things open up</li>
+</ul>
